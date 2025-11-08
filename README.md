@@ -17,3 +17,6 @@ Currently I'm focusing on AI, prompt engineering, and Agentic frameworks such as
 * Library of Chatxandria
 Agentic rag model built into Tkinter chat functions 
 https://github.com/WTCSC/socket-to-em-amd-radeon-rtx-5091v2-ti-super-geforce.git
+* Veilscope AI
+AI information systems for automatic 10-q/10-k summarisation using Langraph Agentic structure
+veilscope.com
